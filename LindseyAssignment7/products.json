@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Laptop",
+      "price": 799.99,
+      "description": "A high-performance laptop for gaming and work."
+    },
+    {
+      "name": "Smartphone",
+      "price": 499.99,
+      "description": "A sleek smartphone with the latest features."
+    },
+    {
+      "name": "Headphones",
+      "price": 99.99,
+      "description": "Noise-cancelling over-ear headphones."
+    },
+    {
+      "name": "Smartwatch",
+      "price": 199.99,
+      "description": "Track your fitness and notifications on the go."
+    },
+    {
+      "name": "Tablet",
+      "price": 299.99,
+      "description": "A portable tablet with a stunning display."
+    }
+  ]
+  
